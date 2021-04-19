@@ -1,3 +1,4 @@
 ./env
 ./datasets/*.csv
 **/**/*.zip
+.vscode/

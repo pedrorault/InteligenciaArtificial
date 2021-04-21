@@ -1,4 +1,5 @@
 ./env
-./datasets/*.csv
+./datasets/*.*
 **/**/*.zip
 .vscode/
+.ipynb_checkpoints/*

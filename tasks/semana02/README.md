@@ -23,6 +23,6 @@ It contains only numerical input variables which are the result of a PCA transfo
 - [X] Verificar se existem dados faltantes no conjunto de dados escolhido, caso sim, pesquise como lidar com eles.
 - [X] Se o conjunto de dados escolhido é desbalanceado, aplique alguma técnica de rebalanceamento existente nas bibliotecas do Python ou R.
 - [ ] Aplicar alguma técnica de normalização nos dados.
-- [ ] Fazer uma análise exploratória do conjunto de dados escolhido (calcular médias, medianas, variâncias, min, max)
+- [X] Fazer uma análise exploratória do conjunto de dados escolhido (calcular médias, medianas, variâncias, min, max)
 
 

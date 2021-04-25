@@ -22,7 +22,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 - [X] Fazer a leitura do conjunto de dados  escolhido usando  bibliotecas prontas ou funções das linguagens de programação Python ou R, por exemplo a biblioteca Pandas do Python.
 - [X] Verificar se existem dados faltantes no conjunto de dados escolhido, caso sim, pesquise como lidar com eles.
 - [X] Se o conjunto de dados escolhido é desbalanceado, aplique alguma técnica de rebalanceamento existente nas bibliotecas do Python ou R.
-- [ ] Aplicar alguma técnica de normalização nos dados.
+- [X] Aplicar alguma técnica de normalização nos dados.
 - [X] Fazer uma análise exploratória do conjunto de dados escolhido (calcular médias, medianas, variâncias, min, max)
 
 

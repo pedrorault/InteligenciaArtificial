@@ -4,3 +4,4 @@ notebook
 requests
 kaggle
 seaborn
+matplotlib

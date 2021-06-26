@@ -6,3 +6,5 @@ kaggle
 seaborn
 matplotlib
 sklearn
+plotly
+plotpy
